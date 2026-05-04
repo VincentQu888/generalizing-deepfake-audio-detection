@@ -1,7 +1,7 @@
 # generalizing-deepfake-audio-detection
 Generalizing Deepfake Audio Detection (WIP)
 
-paper coming in a few days.
+paper coming in a few days. achieved 80%+ support set accuracy but lost some while cleaning up code, currently trying to fix.
 
 <br/>
 
